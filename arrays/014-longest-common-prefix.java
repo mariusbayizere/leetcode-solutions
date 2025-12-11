@@ -13,7 +13,7 @@ import  java.util.Arrays;
  * If there is no common prefix, return "".
  *
  * ---------------------------------------------------------
- * 📝 Example 1:
+ * 📝 Exampl888888888888888e 1:
  * Input:  ["flower", "flow", "flight"]
  * Output: "fl"
  *
